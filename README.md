@@ -28,7 +28,7 @@ Project is created with:
 * Font Awesome
 * JavaScript ES6
 * Bootstrap
-* AXIOS
+* Axios
 * JSON
 * API
 * React
