@@ -1,7 +1,7 @@
-import { SEARCH_BOOK, FETCH_BOOKS, FETCH_POSTER, FETCH_BOOK, LOADING } from './types';
+vimport { SEARCH_BOOK, FETCH_BOOKS, FETCH_POSTER, FETCH_BOOK, LOADING } from './types';
 import axios from 'axios';
 
-import { APIKey } from '../APIKey';
+import { APIKey } from '../.env';
 
 export const searchBook = text => dispatch => {
     dispatch({
