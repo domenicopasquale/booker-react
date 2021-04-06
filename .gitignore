@@ -11,9 +11,6 @@
 # production
 /build
 
-# APIKey
-/src/APIKey.js
-
 # misc
 .DS_Store
 .env.local
