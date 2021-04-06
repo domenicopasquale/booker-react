@@ -38,7 +38,8 @@ Project is created with:
 To run this project:
 * Clone this repository to your desktop.
 * Open CLI (Terminal)
-* Navigate in the directory with command 'cd name-directory'.
+* Navigate in the directory with command 'cd booker-react-master'.
+* Type and send command 'npm install' (only if you don't have)
 * Type and send command 'npm start'.
 
 ## Collaboration
