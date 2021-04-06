@@ -36,10 +36,11 @@ Project is created with:
 
 ## Installation
 To run this project:
-* Clone this repository to your desktop.
-* Open CLI (Terminal)
-* Navigate in the directory with command 'cd booker-react-master'.
-* Type and send command 'npm install' (only if you don't have)
+* Clone this repository to your desktop;
+* Insert your Google Books API key into file APIKey.js;
+* Open CLI (Terminal);
+* Navigate in the directory with command 'cd booker-react-master';
+* Type and send command 'npm install' (only if you don't have);
 * Type and send command 'npm start'.
 
 ## Collaboration
